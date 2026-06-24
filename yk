@@ -4,3 +4,4 @@ vless://4a96e3e3-70bc-4f3e-ae83-3ebb07e58e39@95.179.164.100:36703?encryption=non
 trojan://ey42s5h4vohsmrmj@95.179.164.100:56798?fp=chrome&pbk=SrnGvcJEy9-dPc8b_VRZh_WYnIVca-C7IHiAA665A0s&security=reality&sid=876b7a917a5d&sni=www.oracle.com&spx=%2Fb44iTJRrhN9tlLJ&type=tcp#trojan%20TCP%20Reality
 trojan://ey42s5h4vohsmrmj@95.179.164.100:30601?host=fifa.mehdijamshidi.shop&path=%2Ffhjjjdccx&security=none&type=ws#trojan%20WS
 trojan://ey42s5h4vohsmrmj@95.179.164.100:45688?security=none&type=tcp#trojan%20TCP
+vless://4a96e3e3-70bc-4f3e-ae83-3ebb07e58e39@95.179.164.100:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=fifa.mehdijamshidi.shop&path=%2Fhjdjdjjd&security=tls&sni=&type=ws#vless%20WS%20TLS
