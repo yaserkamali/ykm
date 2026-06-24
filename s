@@ -1,7 +1,6 @@
-vless://5a3d4cec-6c1c-49ad-9c89-bb56a20fe540@shop.jamshidi.shop:58916?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=shop.jamshidi.shop#1-bw09ketv
-vless://6f3130b4-0bbf-4321-92ab-4814bf71bded@shop.jamshidi.shop:37845?type=tcp&encryption=none&path=%2F&host=divar.ir&headerType=http&security=none#v-t-h-0va3ob3e
-vless://0697ed29-2698-4450-a89a-c6e88ef0ee41@shop.jamshidi.shop:56611?type=tcp&encryption=none&security=reality&pbk=YGrVrHyXPy8ojYOTm373Lf0DBfHRKnkepYNvv3VxvVg&fp=chrome&sni=www.nvidia.com&sid=05f655a9b3&spx=%2F#v-t-r-9hobezw0
-vless://d47f4ecc-49c1-40af-b24c-daabc7e6a26d@shop.jamshidi.shop:14052?type=tcp&encryption=none&path=%2F&host=divar.ir&headerType=http&security=reality&pbk=X2Lcq1ts62BFVAFHGv2xo_QIkJcLRcIvL4fYU-Vhb0U&fp=chrome&sni=www.amd.com&sid=e1950ba413&spx=%2F#v-t-r-h-izp8cxbf
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bS10LWgtcjB1d29hYnMiLAogICJhZGQiOiAic2hvcC5qYW1zaGlkaS5zaG9wIiwKICAicG9ydCI6IDM1Mzc0LAogICJpZCI6ICJmMGJhNTlhMi02MWVlLTRhYzgtYmNhZC05NDAyM2M2OGE0ZTIiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0bHMiOiAibm9uZSIsCiAgInR5cGUiOiAiaHR0cCIsCiAgInBhdGgiOiAiLyIsCiAgImhvc3QiOiAiZGl2YXIuaXIiCn0=
-trojan://KnR6n9gey9@shop.jamshidi.shop:44858?type=tcp&path=%2F&host=divar.ir&headerType=http&security=none#t-t-h-ocwjxyan
-
+vless://a67421fb-b69d-411b-9140-5949068cc32a@game.mehdijamshidi.shop:58806?encryption=none&fp=chrome&pbk=4v9uMMkDmRhzVViNmLV4eoU6WnDVv7v-hky_FKRFfhM&security=reality&sid=dc6f1541&sni=www.intel.com&spx=%2FvVBcFAunSoqykp8&type=tcp
+vless://a67421fb-b69d-411b-9140-5949068cc32a@game.mehdijamshidi.shop:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=game.mehdijamshidi.shop&path=%2Fjdjjdjdj&security=tls&sni=game.mehdijamshidi.shop&type=ws
+vless://a67421fb-b69d-411b-9140-5949068cc32a@game.mehdijamshidi.shop:2053?encryption=none&host=game.mehdijamshidi.shop&path=%2Fdffsda&security=none&type=ws
+trojan://fva8pon3oec9n1cy@game.mehdijamshidi.shop:39608?fp=chrome&pbk=YIZBJ1zVOkKYYwGvPjX4UIi2I9-herGFET1ZeZId3Gw&security=reality&sid=a5bbe8b950426a&sni=www.sony.com&spx=%2FykEnoZrKtYexkAp&type=tcp
+trojan://fva8pon3oec9n1cy@game.mehdijamshidi.shop:2083?alpn=h2%2Chttp%2F1.1&fp=chrome&host=game.mehdijamshidi.shop&path=%2Fhjdjdjjd&security=tls&sni=game.mehdijamshidi.shop&type=ws
+trojan://fva8pon3oec9n1cy@game.mehdijamshidi.shop:8443?host=game.mehdijamshidi.shop&path=%2Ffhjjjdccx&security=none&type=ws
