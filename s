@@ -1,6 +1,3 @@
-vless://119d03e9-fef1-459b-b7b0-9a50be1d8165@95.179.164.100:55949?encryption=none&fp=chrome&pbk=dm2p6Dof7iSGDTHDRyspo0BlfWSImDl4wwkYS6rh5x8&security=reality&sid=81be42d59dba&sni=aws.amazon.com&spx=%2F6Pnnuvx8gllBAMc&type=tcp
-vless://119d03e9-fef1-459b-b7b0-9a50be1d8165@95.179.164.100:25496?encryption=none&host=fifa.mehdijamshidi.shop&path=%2Fhggcg&security=none&type=ws
-vless://119d03e9-fef1-459b-b7b0-9a50be1d8165@95.179.164.100:36703?encryption=none&security=none&type=tcp
-trojan://ekp5sc1a05khg3pp@95.179.164.100:56798?fp=chrome&pbk=SrnGvcJEy9-dPc8b_VRZh_WYnIVca-C7IHiAA665A0s&security=reality&sid=f5ef&sni=www.oracle.com&spx=%2FHkP8mEzVaxExwtW&type=tcp
-trojan://ekp5sc1a05khg3pp@95.179.164.100:30601?host=fifa.mehdijamshidi.shop&path=%2Ffhjjjdccx&security=none&type=ws
-trojan://ekp5sc1a05khg3pp@95.179.164.100:45688?security=none&type=tcp
+vless://e8544b80-b7ef-40b7-9f8d-85eab475e1cc@80.240.24.170:443?encryption=none&fp=chrome&pbk=1qzfvM0mAgAZUGKKmEc6yu9M-gEDD4yD-I8zeekW3WQ&security=reality&sid=294c09b49c7255&sni=www.nvidia.com&spx=%2F9ZrvrYyoT366bf5&type=tcp#R1-S
+vless://e8544b80-b7ef-40b7-9f8d-85eab475e1cc@80.240.24.170:2083?encryption=none&fp=chrome&pbk=FtvnOgQLU5vdrMWSVA8A5BQb3g-hdK8xsa1oY9HjeU4&security=reality&sid=002a95ea3f16182a&sni=www.sony.com&spx=%2F0RHAtoxjp3kPKiV&type=tcp#R2-S
+vless://e8544b80-b7ef-40b7-9f8d-85eab475e1cc@80.240.24.170:2053?encryption=none&fp=chrome&pbk=1NplW4nLI0XiYSfIc9-H65U4ypg_3SaXBnOOviBMUiE&security=reality&sid=75271bca68bf&sni=aws.amazon.com&spx=%2FsfogpVHuCvKCazz&type=tcp#R3-S
