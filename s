@@ -1,3 +1,6 @@
-vless://e8544b80-b7ef-40b7-9f8d-85eab475e1cc@80.240.24.170:443?encryption=none&fp=chrome&pbk=1qzfvM0mAgAZUGKKmEc6yu9M-gEDD4yD-I8zeekW3WQ&security=reality&sid=294c09b49c7255&sni=www.nvidia.com&spx=%2F9ZrvrYyoT366bf5&type=tcp#R1-S
-vless://e8544b80-b7ef-40b7-9f8d-85eab475e1cc@80.240.24.170:2083?encryption=none&fp=chrome&pbk=FtvnOgQLU5vdrMWSVA8A5BQb3g-hdK8xsa1oY9HjeU4&security=reality&sid=002a95ea3f16182a&sni=www.sony.com&spx=%2F0RHAtoxjp3kPKiV&type=tcp#R2-S
-vless://e8544b80-b7ef-40b7-9f8d-85eab475e1cc@80.240.24.170:2053?encryption=none&fp=chrome&pbk=1NplW4nLI0XiYSfIc9-H65U4ypg_3SaXBnOOviBMUiE&security=reality&sid=75271bca68bf&sni=aws.amazon.com&spx=%2FsfogpVHuCvKCazz&type=tcp#R3-S
+trojan://md891g95xvjqw6wd@136.244.80.87:17340?extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=GMAKhQO47XadTjSph_qjsYCo43lscSne2O0BT3Y6cnM&security=reality&sid=2cb93876&sni=www.sony.com&spx=%2FVT1hxBGjdgERD7I&type=xhttp&x_padding_bytes=100-1000#trojan%20XHTTP%20Reality-s
+trojan://md891g95xvjqw6wd@136.244.80.87:50097?fp=chrome&pbk=6d2b7qu7kcfJpYHik0zOxvvs5rhRAvRvsLqlwd31RSM&security=reality&sid=29&sni=aws.amazon.com&spx=%2FztfaIQQjknAUh8I&type=tcp#trojan%20TCP%20Reality-s
+vless://4ba77ee6-6370-4f38-9bc0-107234b99391@136.244.80.87:27826?encryption=none&security=none&type=tcp#vless%20TCP-s
+trojan://md891g95xvjqw6wd@136.244.80.87:44150?security=none&type=tcp#trojan%20TCP-s
+trojan://md891g95xvjqw6wd@136.244.80.87:14547?fp=qq&pbk=5x_xEa7gzHEi8xvZjJbWpoaBrEJrpU32j4SGxCofe3U&security=reality&sid=94&sni=www.google.com%3A443&spx=%2FVkfLbEeHJB2zE1b&type=tcp#trojan%20TCP%20Reality-s
+vless://4ba77ee6-6370-4f38-9bc0-107234b99391@136.244.80.87:19008?encryption=none&fp=chrome&pbk=NNzn7S07XsyFfXkoBZWTsFlAOP5i-FB4pOLcrra77hA&security=reality&sid=a815843e7ab0aed4&sni=aws.amazon.com&spx=%2FP21VrF6tNI0Z0AF&type=tcp#vless%20TCP%20Reality-s
