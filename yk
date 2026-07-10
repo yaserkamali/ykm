@@ -1,3 +1,2 @@
-vless://fea81cac-da4f-4c05-b9bd-ade5cf9d7a70@85.9.106.156:2053?encryption=none&security=none&type=tcp#vless%20TCP-ya
-vless://fea81cac-da4f-4c05-b9bd-ade5cf9d7a70@85.9.106.156:8443?encryption=none&fp=chrome&pbk=F4R2RkY40Y71zP1JQSbSdKyKnPf4DJysAhUqQfdcFD8&security=reality&sid=38f7a1e67e&sni=1.aws-lbr.amazonaws.com&spx=%2FzpEThW6lKHYsXm1&type=tcp#vless%20TCP%20Reality-ya
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInZtZXNzIFRDUC15YSIsDQogICJhZGQiOiAiODUuOS4xMDYuMTU2IiwNCiAgInBvcnQiOiAiMjA4MyIsDQogICJpZCI6ICJmZWE4MWNhYy1kYTRmLTRjMDUtYjliZC1hZGU1Y2Y5ZDdhNzAiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIg0KfQ==
+vless://0ab81aa6-ce64-404c-82a4-5e92b002d8e7@85.9.106.156:15580?encryption=none&security=none&type=tcp#vless%20TCP-ya
+vless://0ab81aa6-ce64-404c-82a4-5e92b002d8e7@85.9.106.156:50025?encryption=none&fp=chrome&pbk=nqDNI68VKbuamy2I2kQ5So0XPRl8NodwZW84zGm6y0w&security=reality&sid=e2&sni=www.cloudflare.com&spx=%2FljOIB02GyqvpAnn&type=tcp#vless%20TCP%20Reality-ya
