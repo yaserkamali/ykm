@@ -1,2 +1,1 @@
-vless://3ed4e970-c763-4c85-a2d6-01fccc43aba7@85.9.106.156:15580?encryption=none&security=none&type=tcp#vless%20TCP-ht
-vless://3ed4e970-c763-4c85-a2d6-01fccc43aba7@85.9.106.156:50025?encryption=none&fp=chrome&pbk=nqDNI68VKbuamy2I2kQ5So0XPRl8NodwZW84zGm6y0w&security=reality&sid=903287&sni=blog.api.www.cloudflare.com&spx=%2Fva4qLJgYZpIrLIp&type=tcp#vless%20TCP%20Reality-ht
+vless://cf2eb8c6-2f81-4833-978a-ab164d7266ff@rty.wrtco.ir:443?encryption=none&security=tls&sni=rty.wrtco.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fheloo#-ht
