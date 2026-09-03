@@ -1,2 +1,3 @@
 vless://edc84255-f9e8-4df6-aead-f966916cadf7@85.9.106.183:8443?encryption=none&security=none&type=tcp&headerType=none#th
 vless://edc84255-f9e8-4df6-aead-f966916cadf7@85.9.106.183:34196?encryption=none&security=reality&sni=aws-us-east-1.amazon.com&fp=chrome&pbk=OrYJ0uFPeTyv9zD9bYjEHggtsK190zb4xKbbHkh_Djg&sid=91eb&spx=%2F90ac6c24982d946&type=tcp&headerType=none#th
+vless://cf2eb8c6-2f81-4833-978a-ab164d7266ff@85.9.106.183:4513?encryption=none&security=none&type=tcp#direct-ht
