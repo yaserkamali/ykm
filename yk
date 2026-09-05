@@ -1,2 +1,2 @@
 vless://ebc4bbb0-b2bf-41ce-9e22-da97003e5c29@85.9.106.154:2053?encryption=none&security=none&type=tcp#V-R-y
-vless://ebc4bbb0-b2bf-41ce-9e22-da97003e5c29@192.248.185.202:2083?encryption=none&host=&path=%2F&security=none&type=ws#V-WS-y
+vless://ebc4bbb0-b2bf-41ce-9e22-da97003e5c29@85.9.106.154:2083?encryption=none&host=&path=%2F&security=none&type=ws#V-WS-y
