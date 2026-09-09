@@ -1,3 +1,2 @@
-vless://ebc4bbb0-b2bf-41ce-9e22-da97003e5c29@85.9.106.154:2053?encryption=none&host=&path=%2F&security=none&type=ws#V-R-y
-vless://ebc4bbb0-b2bf-41ce-9e22-da97003e5c29@85.9.106.154:2083?encryption=none&host=&path=%2F&security=none&type=ws#V-WS-y
-vless://ebc4bbb0-b2bf-41ce-9e22-da97003e5c29@85.9.106.154:54321?encryption=none&security=none&type=tcp#v-ws2-y
+vless://84a1b16d-41e1-4855-99d2-addfd47804ed@85.9.106.154:443?encryption=none&host=&path=%2F&security=none&type=ws#y
+vless://84a1b16d-41e1-4855-99d2-addfd47804ed@85.9.106.154:6666?encryption=none&security=none&type=tcp#y
